@@ -1,0 +1,15 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Calculator lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Gowtham Talluri",
+  "license": "ISC",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "connect": "^3.5.0"
+  }
+}
